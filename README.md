@@ -42,12 +42,10 @@ The content of the elements, e.g. what text you put in the dropdown list, is up 
 * Upload the file(s) to your area on bimserver2.com
 * ☞Content, file and folder names (except links.html) are up to you
 
-You are welcome to copy and paste HTML from my lecture slides, but the quotes might need changing from opening double quotes (“) and closing double quotes (”) to straight double quotes ("). 
+You are welcome to copy and paste HTML from these handouts, but the quotes might need changing from opening double quotes (“) and closing double quotes (”) to straight double quotes ("). 
  
 Commit early, commit often - that way you can go back if you have made a mistake and I can see all the work you have done. There's no problem if you commit and there's a mistake in your file.  
 
 Once you are done be sure to commit your changes (that will save them to the repository) and to push them to GitHub (so that I can see the work you have done).
 
-This task is part of your first assignment. 
-
-As this task is part of the first assignment you should work individually, not with other students, and shouldn't show the final version of your files to other students, e.g. on the module discussion board.
+Work on this task by yourself, not in groups.
