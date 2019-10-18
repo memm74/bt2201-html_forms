@@ -4,7 +4,7 @@
 
 ### Overview
 
-Just like in last week's workshop you will add some content to a very basic html document. This week we work with form elements.
+Just like in the previous task you will add some content to a very basic HTML document. This week we work with form elements.
 
 ### Editing
 
@@ -12,7 +12,7 @@ Just like in last week's workshop you will add some content to a very basic html
 
 If you like you can edit the document directly in GitHub's web interface. This is a very convenient way of editing the file. 
 
-If you want to test your files (especially in the future when we've started using PHP) you should upload them to your web space on bimserver2.com. 
+If you want to test your files (especially in the future when we've started using PHP) you should upload them to your webspace on bimserver2.com. 
 
 #### The preferred way...
 
@@ -25,7 +25,7 @@ To get the repository to your own machine you can use GitHub Desktop or link you
 
 ## Task
 
-Below is today's task. You have to start this work in the 'forms.html' file. It can be found in the same repository as the readme document you are currently reading. You don't have to do all the work in one html file. If you want you can create additional files in your repository.
+Below is today's task. You have to start this work in the 'forms.html' file. It can be found in the same repository as the readme document you are currently reading. You don't have to do all the work in one HTML file. If you want you can create additional files in your repository.
 
 Add an HTML form that contains
 * a text field
